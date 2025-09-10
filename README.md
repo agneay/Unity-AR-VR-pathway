@@ -1,5 +1,5 @@
-# DEFAULT_TEMPLATE  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-My default template Repository for creating other repositories
+#  Unity-AR-VR-pathway [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+My repo for holding my files related to my unity AR VR pathway
 
 ![maintained](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
 ![forks](https://img.shields.io/github/forks/agneay/DEFAULT_TEMPLATE?style=for-the-badge)
